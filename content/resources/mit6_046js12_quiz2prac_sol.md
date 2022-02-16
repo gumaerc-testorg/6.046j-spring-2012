@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding quiz 2 solutions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-046j-design-and-analysis-of-algorithms-spring-2012/dd6edc22be239cbe8ea0221012c245de_MIT6_046JS12_quiz2prac_sol.pdf
+file: /media/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/dd6edc22be239cbe8ea0221012c245de_MIT6_046JS12_quiz2prac_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 6.046J Spring 2012 Practice Quiz 2 Solutions
 uid: dd6edc22-be23-9cbe-8ea0-221012c245de

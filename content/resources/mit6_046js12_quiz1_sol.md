@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding quiz 1 solutions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-046j-design-and-analysis-of-algorithms-spring-2012/904354c119a0b00207a80a43c72224e0_MIT6_046JS12_quiz1_sol.pdf
+file: /media/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/904354c119a0b00207a80a43c72224e0_MIT6_046JS12_quiz1_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 6.046J Spring 2012 Quiz 1 Solutions
 uid: 904354c1-19a0-b002-07a8-0a43c72224e0
