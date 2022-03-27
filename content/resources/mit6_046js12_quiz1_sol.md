@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: ac9c0175-3f4c-9395-6b2d-83ab62ef3e13
 resourcetype: Document
 title: 6.046J Spring 2012 Quiz 1 Solutions
 uid: 904354c1-19a0-b002-07a8-0a43c72224e0

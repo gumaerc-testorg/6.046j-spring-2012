@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: ac9c0175-3f4c-9395-6b2d-83ab62ef3e13
 resourcetype: Other
 title: MIT6_046JS12_quiz2_template.zip
 uid: 19d477b5-f87c-5bc6-c33f-2a2d7153d517

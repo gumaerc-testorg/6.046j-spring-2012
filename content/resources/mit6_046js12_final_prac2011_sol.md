@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: ac9c0175-3f4c-9395-6b2d-83ab62ef3e13
 resourcetype: Document
 title: 6.046J Spring 2011 Practice Final Exam Solutions
 uid: f4fc4e2b-d0d1-290e-f779-a558c2a63f10

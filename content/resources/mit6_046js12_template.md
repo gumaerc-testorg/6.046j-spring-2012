@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bda74b8b-6fee-ffd8-7de9-5efad51ec4e2
 resourcetype: Other
 title: MIT6_046JS12_template.zip
 uid: da044ddc-ecb3-c728-ddbf-e76ed26a5080

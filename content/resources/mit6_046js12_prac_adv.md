@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: ac9c0175-3f4c-9395-6b2d-83ab62ef3e13
 resourcetype: Document
 title: '6.046J Practice Problems: Advanced Topics'
 uid: 0064d321-1fec-b28b-950b-7bf80df38deb

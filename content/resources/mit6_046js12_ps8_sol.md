@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bda74b8b-6fee-ffd8-7de9-5efad51ec4e2
 resourcetype: Document
 title: 6.046J Design and Analysis of Algorithms, Problem Set 8 Solutions
 uid: d48d7bbf-b129-fdfa-acca-0ca85512ba04
