@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file.
-file: /media/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/da044ddcecb3c728ddbfe76ed26a5080_MIT6_046JS12_template.zip
+file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2012/da044ddcecb3c728ddbfe76ed26a5080_MIT6_046JS12_template.zip
 file_type: application/zip
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: MIT6_046JS12_template.zip
 uid: da044ddc-ecb3-c728-ddbf-e76ed26a5080
 ---
+This is a supporting file.
+

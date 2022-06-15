@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of references on algorithms, programming,
+  background mathematics, and advanced topics.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Readings
 uid: d6436bd3-f1dc-d6ed-db45-46ff67a8d147
 ---
 
-For reading assignments associated with each lecture, see the [Calendar]({{< baseurl >}}/pages/calendar) section.
+For reading assignments associated with each lecture, see the {{% resource_link 65b6536a-9894-b29b-38b5-533efd54aed6 "Calendar" %}} section.
 
 The following books are additional references.
 

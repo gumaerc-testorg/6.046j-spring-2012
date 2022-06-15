@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists general goals for the course and specific skills that
+  students will learn.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus

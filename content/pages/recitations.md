@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides recitation notes on algorithm design tools, van
+  Emde Boas, NP-hardness, sublinear algorithms, and clustering.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -27,7 +29,7 @@ RECITATION NOTES
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Algorithm design tools (PDF)]({{< baseurl >}}/resources/mit6-046j_s12_rec08)
+{{% resource_link 4f674306-89f6-dfa3-705d-141944409263 "Algorithm design tools (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +38,7 @@ RECITATION NOTES
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[van Emde Boas (PDF)]({{< baseurl >}}/resources/mit6-046j_s12_rec09)
+{{% resource_link a9d1e969-827e-760f-9351-d1204325f1ea "van Emde Boas (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ RECITATION NOTES
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[NP-hardness (PDF)]({{< baseurl >}}/resources/mit6-046j_s12_rec10)
+{{% resource_link f53967be-74f4-40c4-855f-9472dff28a63 "NP-hardness (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,8 +56,7 @@ RECITATION NOTES
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Sublinear algorithms, clustering (PDF)  
-]({{< baseurl >}}/resources/mit6-046j_s12_rec12)
+{{% resource_link "67a2456b-36dc-91de-a433-7288d9f6644b" "Sublinear algorithms, clustering (PDF)   " %}}
 {{< tdclose >}}
 
 {{< trclose >}}

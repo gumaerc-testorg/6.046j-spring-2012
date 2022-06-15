@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section describes the collaboration policy for problem sets and
+  exams.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
