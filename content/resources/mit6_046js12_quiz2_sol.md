@@ -5,6 +5,7 @@ file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2012/8d5ab70d3e82
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 6.046J Spring 2012 Quiz 2 Solutions
 uid: 8d5ab70d-3e82-dcec-fb10-76416f359fff
 ---
 This resource contains information regarding quiz 2 solutions.
-

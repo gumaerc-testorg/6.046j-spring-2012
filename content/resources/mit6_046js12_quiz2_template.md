@@ -5,6 +5,7 @@ file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2012/19d477b5f87c
 file_type: application/zip
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_046JS12_quiz2_template.zip
 uid: 19d477b5-f87c-5bc6-c33f-2a2d7153d517
 ---
 This is a supporting file.
-

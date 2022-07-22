@@ -5,6 +5,7 @@ file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2012/0d3dec89a1db
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 6.046J Spring 2012 Final Exam Solutions
 uid: 0d3dec89-a1db-ea42-9631-8592a9bf086a
 ---
 This resource contains information regarding final exam solutions.
-

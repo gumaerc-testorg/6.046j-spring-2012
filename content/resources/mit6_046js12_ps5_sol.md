@@ -5,6 +5,7 @@ file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2012/93f55e1459e5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 6.046J Design and Analysis of Algorithms, Problem Set 5 Solutions
 uid: 93f55e14-59e5-aa5e-b1df-a55852244dd4
 ---
 This resource contains information regarding problem set 5 solution.
-
