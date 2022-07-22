@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section lists general goals for the course and specific skills that
+  students will learn.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 070f871c-7690-7ba5-f845-e838001eeb96
 title: Course Objectives and Outcomes
 uid: 0aaef1d5-a0ec-1f6d-0adb-7edf3fdb855c

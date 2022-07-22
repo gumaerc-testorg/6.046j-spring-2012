@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with notes developed by a student, starting from the notes that the course instructors
+  prepared for their own use in presenting the lectures.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 54da7b67-8d41-8434-419d-7dd9ed78d45f
 ---
 
 These notes were developed by Ben Zinberg, a student in the Spring 2012 class, starting from the notes that Prof. Moshkovitz and Prof. Tidor prepared for their own use in presenting the lectures.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Complete notes (PDF)]({{< baseurl >}}/resources/mit6_046js12_notes)
+{{% resource_link b1e5ac3c-8f7d-60db-9b8d-5b66c40bc55e "Complete notes (PDF)" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -26,7 +32,7 @@ LECTURE NOTES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Introduction, median finding (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec01)
+{{% resource_link c3a8610e-a212-0258-eaa0-d71f95f59fde "Introduction, median finding (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -35,7 +41,7 @@ LECTURE NOTES
 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Median finding, interval scheduling (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec02)
+{{% resource_link 7f4951b3-7f95-a004-6b21-5c6abec3af59 "Median finding, interval scheduling (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +50,7 @@ LECTURE NOTES
 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Minimum spanning trees I (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec03)
+{{% resource_link 6baf48eb-e3ba-bed2-94c3-1a907a916e08 "Minimum spanning trees I (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -53,7 +59,7 @@ LECTURE NOTES
 4
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Minimum spanning trees II (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec04)
+{{% resource_link bb54568c-86c6-0d86-b25e-9c1111470384 "Minimum spanning trees II (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +68,7 @@ LECTURE NOTES
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Fast Fourier transform (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec05)
+{{% resource_link dcfa155d-0ae6-36c2-10be-bd70e3b87ba1 "Fast Fourier transform (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +77,7 @@ LECTURE NOTES
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[All-pairs shortest paths I (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec06)
+{{% resource_link e54e0c08-cfb4-2348-58e9-0c9c24351321 "All-pairs shortest paths I (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +86,7 @@ LECTURE NOTES
 7
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[All-pairs shortest paths II (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec07)
+{{% resource_link a9e76885-a78c-729f-2375-e14830caebf2 "All-pairs shortest paths II (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +95,7 @@ LECTURE NOTES
 8
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Randomized algorithms I (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec08)
+{{% resource_link cc13d407-0647-1ea8-82c3-9f315861ce64 "Randomized algorithms I (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +104,7 @@ LECTURE NOTES
 9
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Randomized algorithms II (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec09)
+{{% resource_link ff8ad45e-0206-a594-85a0-bc3eca88d830 "Randomized algorithms II (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,7 +113,7 @@ LECTURE NOTES
 10
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Hashing and amortization (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec10)
+{{% resource_link 89c1c5a0-88e9-755d-7abc-7798db882f2b "Hashing and amortization (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +122,7 @@ LECTURE NOTES
 11
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Amortized analysis (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec11)
+{{% resource_link 83b82d45-beb3-776d-a72b-7f3e1b3f42df "Amortized analysis (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +131,7 @@ LECTURE NOTES
 12
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Competitive analysis (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec12)
+{{% resource_link c6d52bc9-04f5-f6e5-9241-3e7dca1551ea "Competitive analysis (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,7 +140,7 @@ LECTURE NOTES
 13
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Network flow (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec13)
+{{% resource_link 7c292779-4e61-bd70-c14c-07728fa54375 "Network flow (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -143,7 +149,7 @@ LECTURE NOTES
 14
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Interlude: problem solving (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec14)
+{{% resource_link 16e5c6a1-dea0-d1c2-10b3-597e2eb4786a "Interlude: problem solving (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +158,7 @@ LECTURE NOTES
 15
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[van Emde Boas data structure (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec15)
+{{% resource_link c02af0a0-2710-6421-6127-6560ab21510d "van Emde Boas data structure (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +167,7 @@ LECTURE NOTES
 16
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Disjoint-set data structures (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec16)
+{{% resource_link dbbca521-8779-3361-14dc-d3b3195e7783 "Disjoint-set data structures (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -170,7 +176,7 @@ LECTURE NOTES
 17
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Complexity and NP-completeness (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec17)
+{{% resource_link b4562881-f2af-637e-09e8-06450e9b62c8 "Complexity and NP-completeness (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -179,7 +185,7 @@ LECTURE NOTES
 18
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Polynomial-time approximations (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec18)
+{{% resource_link aeeb7d25-b6b2-2cb4-bfa7-6671d69a0324 "Polynomial-time approximations (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -188,7 +194,7 @@ LECTURE NOTES
 19
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Compression and Huffman coding (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec19)
+{{% resource_link 38811526-5a45-6321-c4a5-d19dc9e05281 "Compression and Huffman coding (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -197,7 +203,7 @@ LECTURE NOTES
 20
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Sublinear-time algorithms (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec20)
+{{% resource_link 723f5bdb-9844-7116-fb6b-a01d3556d2aa "Sublinear-time algorithms (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -206,7 +212,7 @@ LECTURE NOTES
 21
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Clustering (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec21)
+{{% resource_link db362d2d-0c6f-cfc6-e2ff-59c0ff53cefb "Clustering (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -215,7 +221,7 @@ LECTURE NOTES
 22
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Derandomization (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec22)
+{{% resource_link 1845ef41-13f7-34c0-cb5e-61899f198444 "Derandomization (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -224,7 +230,7 @@ LECTURE NOTES
 23
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Computational geometry (PDF)]({{< baseurl >}}/resources/mit6_046js12_lec23)
+{{% resource_link 90bf712a-6464-8a7d-4038-7df4c22efa2a "Computational geometry (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
