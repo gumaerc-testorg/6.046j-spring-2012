@@ -145,6 +145,6 @@ Please observe that this table is for _questions_ skipped, not _problem sets_.
 
 The primary written reference for the course is:
 
-![Buy at MIT Press](/images/mp_logo.gif) Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. [_Introduction to Algorithms_](https://mitpress.mit.edu/9780262033848). 3rd ed. MIT Press, 2009. ISBN: 9780262033848.
+![Buy at MIT Press](/images/mp_logo.gif) Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. {{% resource_link "dac056ed-d21f-452d-a97b-b537c6f6ae16" "_Introduction to Algorithms_" %}}. 3rd ed. MIT Press, 2009. ISBN: 9780262033848.
 
 In previous semesters the course has used the first or second edition of this text. We will be using material and exercise numbering from the third edition, making earlier editions unsuitable as substitutes.
