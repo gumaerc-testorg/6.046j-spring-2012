@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the complete lecture notes file.
 file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2012/b1e5ac3c8f7d60db9b8d5b66c40bc55e_MIT6_046JS12_Notes.pdf
+file_size: 952445
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
