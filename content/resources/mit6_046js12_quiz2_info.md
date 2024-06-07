@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding quiz 2 instructions.
 file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2012/123aef7a77e5a7316e76d4e0e8858e5a_MIT6_046JS12_quiz2_info.pdf
+file_size: 136346
 file_type: application/pdf
 learning_resource_types:
 - Exams

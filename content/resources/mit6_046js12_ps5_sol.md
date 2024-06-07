@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding problem set 5 solution.
 file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2012/93f55e1459e5aa5eb1dfa55852244dd4_MIT6_046JS12_ps5_sol.pdf
+file_size: 106396
 file_type: application/pdf
 learning_resource_types:
 - Assignments

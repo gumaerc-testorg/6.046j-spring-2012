@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding practice final exam.
 file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2012/c93541b5098f30f12fd3fbe99ba0523f_MIT6_046JS12_final_prac.pdf
+file_size: 123835
 file_type: application/pdf
 learning_resource_types:
 - Exams
