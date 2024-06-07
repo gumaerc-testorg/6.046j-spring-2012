@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file.
 file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2012/da044ddcecb3c728ddbfe76ed26a5080_MIT6_046JS12_template.zip
+file_size: 27652
 file_type: application/zip
 learning_resource_types:
 - Assignments
