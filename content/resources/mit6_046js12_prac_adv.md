@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding practice problems: advanced
   topics.'
-file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2012/0064d3211fecb28b950b7bf80df38deb_MIT6_046JS12_prac_adv.pdf
+file: /ol-ocw-studio-app/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/0064d3211fecb28b950b7bf80df38deb_MIT6_046JS12_prac_adv.pdf
 file_size: 95300
 file_type: application/pdf
 learning_resource_types:

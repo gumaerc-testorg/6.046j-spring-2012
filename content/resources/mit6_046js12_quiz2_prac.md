@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding practice quiz 2.
-file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2012/f92d681bd34f3dc4555953f17ee885d4_MIT6_046JS12_quiz2_prac.pdf
+file: /ol-ocw-studio-app/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/f92d681bd34f3dc4555953f17ee885d4_MIT6_046JS12_quiz2_prac.pdf
 file_size: 100087
 file_type: application/pdf
 learning_resource_types:
