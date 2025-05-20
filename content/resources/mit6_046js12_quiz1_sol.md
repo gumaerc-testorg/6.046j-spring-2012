@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding quiz 1 solutions.
-file: /ol-ocw-studio-app/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/904354c119a0b00207a80a43c72224e0_MIT6_046JS12_quiz1_sol.pdf
+file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2012/904354c119a0b00207a80a43c72224e0_MIT6_046JS12_quiz1_sol.pdf
 file_size: 147730
 file_type: application/pdf
 learning_resource_types:
