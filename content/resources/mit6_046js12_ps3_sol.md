@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding problem set 3 solution.
-file: /ol-ocw-studio-app/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/3b0d3abfbf98d8147f04c4f5912f3e0b_MIT6_046JS12_ps3_sol.pdf
+file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2012/3b0d3abfbf98d8147f04c4f5912f3e0b_MIT6_046JS12_ps3_sol.pdf
 file_size: 130373
 file_type: application/pdf
 learning_resource_types:

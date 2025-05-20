@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding problem set 8.
-file: /ol-ocw-studio-app/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/d48d7bbfb129fdfaacca0ca85512ba04_MIT6_046JS12_ps8_sol.pdf
+file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2012/d48d7bbfb129fdfaacca0ca85512ba04_MIT6_046JS12_ps8_sol.pdf
 file_size: 111728
 file_type: application/pdf
 learning_resource_types:

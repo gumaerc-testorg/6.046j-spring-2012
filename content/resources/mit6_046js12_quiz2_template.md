@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file.
-file: /ol-ocw-studio-app/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/19d477b5f87c5bc6c33f2a2d7153d517_MIT6_046JS12_quiz2_template.zip
+file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2012/19d477b5f87c5bc6c33f2a2d7153d517_MIT6_046JS12_quiz2_template.zip
 file_size: 15082
 file_type: application/zip
 learning_resource_types:
