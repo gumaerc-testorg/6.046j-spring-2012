@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding final exam.
-file: /courses/6-046j-design-and-analysis-of-algorithms-spring-2012/ca7d50114c3d65baf90c82d5a3709acb_MIT6_046JS12_final.pdf
+file: /ol-ocw-studio-app/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/ca7d50114c3d65baf90c82d5a3709acb_MIT6_046JS12_final.pdf
 file_size: 130136
 file_type: application/pdf
 learning_resource_types:
