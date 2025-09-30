@@ -32,7 +32,7 @@ More applications of algorithm design techniques to software engineering.
 ———. _Writing Efficient Programs_. Prentice-Hall, 1982. ISBN: 9780139702518.  
 Performance hacking extraordinaire.
 
-Skiena, Steven. _The Algorithm Design Manual_. Springer, 1997. ISBN: 9780387948607. \[Preview with [Google Books](http://books.google.com/books?id=TrXd-gxPhVYC&printsec=frontcover)\]
+Skiena, Steven. _The Algorithm Design Manual_. Springer, 1997. ISBN: 9780387948607. \[Preview with {{% resource_link "1a42276e-0ffa-4d67-b997-9eb3ed6402db" "Google Books" %}}\]
 
 Gonnet, Gaston. _Handbook of Algorithms and Data Structures: Coded in Pascal and C_. Addison-Wesley, 1984. ISBN: 9780201142181.  
 Pascal and C code, comparisons of actual running times, and pointers to analysis in research papers.
@@ -46,7 +46,7 @@ Broad treatment of graph algorithms, including network flow and planarity.
 Garey, Michael, and David Johnson. _Computers and Intractability: A Guide to the Theory of NP-Completeness_. W. H. Freeman, 1979. ISBN: 9780716710455.  
 Reference book devoted to NP-completeness. Second half contains an extensive list of NP-complete problems and references to algorithms in the literature for polynomial-time special cases.
 
-Gusfield, Dan. _Algorithms on Strings, Trees, and Sequences: Computer Science and Computational Biology_. Cambridge University Press, 1997. ISBN: 9780521585194. \[Preview with [Google Books](http://books.google.com/books?id=Ofw5w1yuD8kC&printsec=frontcover)\]  
+Gusfield, Dan. _Algorithms on Strings, Trees, and Sequences: Computer Science and Computational Biology_. Cambridge University Press, 1997. ISBN: 9780521585194. \[Preview with {{% resource_link "9dbe2b64-d4f7-4b25-ad9a-ae07ac390b48" "Google Books" %}}\]  
 General treatment of algorithms that operate on character strings and sequences.
 
 Lawler, Eugene. _Combinatorial Optimization: Networks and Matroids_. Holt, Rinehart, and Winston, 1976.  
@@ -58,7 +58,7 @@ Linear programming and its variants.
 Sipser, Michael. _Introduction to the Theory of Computation_. PWS, 1997.  
 A good text on computability and complexity theory, with proof ideas to kick off each proof.
 
-Tarjan, Robert. _Data Structures and Network Algorithms_. Society for Industrial and Applied Mathematics, 1985. \[Preview with [Google Books](http://books.google.com/books?id=F8xTTGX1b8kC&pg=PAfrontcover)\]  
+Tarjan, Robert. _Data Structures and Network Algorithms_. Society for Industrial and Applied Mathematics, 1985. \[Preview with {{% resource_link "bf30bcb1-7cfb-4e87-a25f-f40b55a34652" "Google Books" %}}\]  
 An advanced book with tons of good stuff.
 
 Background Mathematics
